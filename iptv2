@@ -1,2 +1,385 @@
-tv_channels_0rk7azufRR.m3u
-tv_channels_1w1_zipilisreGolAd.m3u
+#EXTM3U
+#EXTINF:-1,TRT 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43310
+#EXTINF:-1,TRT 1 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43311
+#EXTINF:-1,Show HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43312
+#EXTINF:-1,Show TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43313
+#EXTINF:-1,Show Max
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43314
+#EXTINF:-1,Show Turk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43315
+#EXTINF:-1,Kanal D HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43316
+#EXTINF:-1,Kanal D FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43317
+#EXTINF:-1,Euro D
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43318
+#EXTINF:-1,ATV HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43319
+#EXTINF:-1,ATV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43320
+#EXTINF:-1,ATV Avrupa
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43321
+#EXTINF:-1,Star HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43322
+#EXTINF:-1,Star TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43323
+#EXTINF:-1,Euro Star
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43324
+#EXTINF:-1,Kanal 7 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43325
+#EXTINF:-1,Kanal 7 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43326
+#EXTINF:-1,Kanal 7 Avrupa
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43327
+#EXTINF:-1,TV8 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43328
+#EXTINF:-1,TV8 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43329
+#EXTINF:-1,TV 8.5 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43330
+#EXTINF:-1,Fox HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43331
+#EXTINF:-1,Fox TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43332
+#EXTINF:-1,Fox Crime
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43333
+#EXTINF:-1,Fox Life
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43334
+#EXTINF:-1,Fox Life HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43335
+#EXTINF:-1,Flash TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43336
+#EXTINF:-1,Beyaz HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43337
+#EXTINF:-1,Beyaz TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43338
+#EXTINF:-1,Beyaz TV HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43339
+#EXTINF:-1,beINSport 1 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43340
+#EXTINF:-1,beINSport 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43341
+#EXTINF:-1,beINSport 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43342
+#EXTINF:-1,beINSport 3 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43343
+#EXTINF:-1,beINSport 4 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43344
+#EXTINF:-1,beINSport 91 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43345
+#EXTINF:-1,beINSport 92 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43346
+#EXTINF:-1,beINSports Max 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43347
+#EXTINF:-1,beINSports Max 1 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43348
+#EXTINF:-1,beINSports Max 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43349
+#EXTINF:-1,TiviBu Sport 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43350
+#EXTINF:-1,TiviBu Sport 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43351
+#EXTINF:-1,TiviBu Sport 3 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43352
+#EXTINF:-1,TiviBu Sport 4 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43353
+#EXTINF:-1,Saran Sport HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43354
+#EXTINF:-1,Smart Sport 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43355
+#EXTINF:-1,Smart Sport 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43356
+#EXTINF:-1,S Sports TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43357
+#EXTINF:-1,A Spor HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43358
+#EXTINF:-1,A Sport HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43359
+#EXTINF:-1,A Spor FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43360
+#EXTINF:-1,BJK TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43361
+#EXTINF:-1,GS TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43362
+#EXTINF:-1,TJK TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43363
+#EXTINF:-1,Fenerbahce
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43364
+#EXTINF:-1,TRT Spor FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43365
+#EXTINF:-1,TRT Spor HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43366
+#EXTINF:-1,EuroSport 1
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43367
+#EXTINF:-1,EuroSport 2
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43368
+#EXTINF:-1,TRT Haber FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43369
+#EXTINF:-1,TRT Haber HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43370
+#EXTINF:-1,A Haber FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43371
+#EXTINF:-1,A Haber HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43372
+#EXTINF:-1,24 TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43373
+#EXTINF:-1,360 TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43374
+#EXTINF:-1,A2
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43375
+#EXTINF:-1,Bloomberg HT FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43376
+#EXTINF:-1,Bloomberg TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43377
+#EXTINF:-1,CNN Turk FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43378
+#EXTINF:-1,CNN Turk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43379
+#EXTINF:-1,TGRT Haber HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43380
+#EXTINF:-1,TGRT Haber
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43381
+#EXTINF:-1,Haber Turk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43382
+#EXTINF:-1,HaberTurk FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43383
+#EXTINF:-1,NTV HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43384
+#EXTINF:-1,NTV Haber FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43385
+#EXTINF:-1,beIN IZ TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43386
+#EXTINF:-1,TRT Belgesel HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43387
+#EXTINF:-1,TRT World
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43388
+#EXTINF:-1,Animal Planet HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43389
+#EXTINF:-1,Animaux
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43390
+#EXTINF:-1,Discovery Channel
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43391
+#EXTINF:-1,Discovery IDX HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43392
+#EXTINF:-1,Discovery ShowCase HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43393
+#EXTINF:-1,History Channel HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43394
+#EXTINF:-1,IDMan TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43395
+#EXTINF:-1,Nat Geo HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43396
+#EXTINF:-1,Nat Geo People
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43397
+#EXTINF:-1,Nat Geo Wild HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43398
+#EXTINF:-1,Yaban TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43399
+#EXTINF:-1,TRT Cocuk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43400
+#EXTINF:-1,TRT Cocuk FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43401
+#EXTINF:-1,Disney Channel
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43402
+#EXTINF:-1,Disney Junior
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43403
+#EXTINF:-1,Disney XD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43404
+#EXTINF:-1,Minika Cocuk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43405
+#EXTINF:-1,Minika Cocuk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43406
+#EXTINF:-1,Minika Go HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43407
+#EXTINF:-1,Nick JR
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43408
+#EXTINF:-1,Nickelodeon HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43409
+#EXTINF:-1,TRT Kidz Animez HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43410
+#EXTINF:-1,Baby TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43411
+#EXTINF:-1,Planet Cocuk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43412
+#EXTINF:-1,Cartoon Network HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43413
+#EXTINF:-1,Kidz
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43414
+#EXTINF:-1,MagicBox Aksiyon HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43415
+#EXTINF:-1,MagicBox Animasyon HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43416
+#EXTINF:-1,MagicBox Komedi HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43417
+#EXTINF:-1,MovieSmart Family HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43418
+#EXTINF:-1,MovieSmart Gold HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43419
+#EXTINF:-1,MovieSmart Platin 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43420
+#EXTINF:-1,MovieSmart Premium 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43421
+#EXTINF:-1,MovieSmart Premium 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43422
+#EXTINF:-1,Salon 1 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43423
+#EXTINF:-1,Salon 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43424
+#EXTINF:-1,Salon 3 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43425
+#EXTINF:-1,Salon 4 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43426
+#EXTINF:-1,beIN Box Office 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43427
+#EXTINF:-1,beIN Box Office 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43428
+#EXTINF:-1,beIN Box Office 3 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43429
+#EXTINF:-1,beINMovies Action HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43430
+#EXTINF:-1,beINMovies Family HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43431
+#EXTINF:-1,beINMovies Festival HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43432
+#EXTINF:-1,beINMovies Premiere 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43433
+#EXTINF:-1,beINMovies Premiere 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43434
+#EXTINF:-1,beINMovies Stars HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43435
+#EXTINF:-1,beINMovies Turk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43436
+#EXTINF:-1,SineTivi Adrenalin 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43437
+#EXTINF:-1,SineTivi Adrenalin 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43438
+#EXTINF:-1,SineTivi HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43439
+#EXTINF:-1,Sinema TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43440
+#EXTINF:-1,Fil TV HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43441
+#EXTINF:-1,FilmBox
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43442
+#EXTINF:-1,Filmbox Fantastik HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43443
+#EXTINF:-1,Filmbox Turkmax Gurme HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43444
+#EXTINF:-1,Arti TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43445
+#EXTINF:-1,Kral POP HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43446
+#EXTINF:-1,Kral POP TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43447
+#EXTINF:-1,Kral
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43448
+#EXTINF:-1,Kral TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43449
+#EXTINF:-1,NR1 Turk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43450
+#EXTINF:-1,DMAX FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43451
+#EXTINF:-1,Dream TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43452
+#EXTINF:-1,Dreamuk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43453
+#EXTINF:-1,Duzce TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43454
+#EXTINF:-1,TRT Muzik HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43455
+#EXTINF:-1,Dost TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43456
+#EXTINF:-1,Abant TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43457
+#EXTINF:-1,Adana TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43458
+#EXTINF:-1,Ahi TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43459
+#EXTINF:-1,Aksu TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43460
+#EXTINF:-1,BEN TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43461
+#EXTINF:-1,BRT 1 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43462
+#EXTINF:-1,BRT 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43463
+#EXTINF:-1,BenguTurkTV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43464
+#EXTINF:-1,Cay TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43465
+#EXTINF:-1,Cem TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43466
+#EXTINF:-1,Da Vinci Learning HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43467
+#EXTINF:-1,Den
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43468
+#EXTINF:-1,Ege TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43469
+#EXTINF:-1,Genc TV HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43470
+#EXTINF:-1,alk TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43471
+#EXTINF:-1,Icel TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43472
+#EXTINF:-1,Istanbul TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43473
+#EXTINF:-1,Kanal 24 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43474
+#EXTINF:-1,Kanal 24
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43475
+#EXTINF:-1,Kanal 26
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43476
+#EXTINF:-1,Kanal 3
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43477
+#EXTINF:-1,Kanal 58
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43478
+#EXTINF:-1,Karaden
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43479
+#EXTINF:-1,Kent TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43480
+#EXTINF:-1,Kon TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43481
+#EXTINF:-1,Lalegul TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43482
+#EXTINF:-1,Olay TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43483
+#EXTINF:-1,Planet Mutfak
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43484
+#EXTINF:-1,Planet Pembe
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43485
+#EXTINF:-1,Planet Turk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43486
+#EXTINF:-1,Power Turk HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43487
+#EXTINF:-1,Sakarya TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43488
+#EXTINF:-1,Semerkand TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43489
+#EXTINF:-1,TRT Diyanet
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43490
+#EXTINF:-1,TRT Okul
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43491
+#EXTINF:-1,TRT Turk
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43492
+#EXTINF:-1,TV 2 FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43493
+#EXTINF:-1,TV 2 HD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43494
+#EXTINF:-1,TV 4
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43495
+#EXTINF:-1,TV 5
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43496
+#EXTINF:-1,TV EM
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43497
+#EXTINF:-1,TV Kayser
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43498
+#EXTINF:-1,Turkmeneli TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43499
+#EXTINF:-1,Ulke TV FHD
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43500
+#EXTINF:-1,Ulke TV
+http://tv.premuimservers.com:8080/HWF6q6tuiB/npj620GpPf/43501
